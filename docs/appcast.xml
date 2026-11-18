@@ -3,6 +3,26 @@
     <channel>
         <title>TKBcal</title>
         <item>
+            <title>1.0.17</title>
+            <pubDate>Wed, 18 Nov 2026 16:11:48 +0900</pubDate>
+            <link>https://apps.tkbtk.com/TKBcal/</link>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>1.0.17</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<!DOCTYPE html>
+<html lang="ja"><head><meta charset="utf-8">
+<style>body{font-family:-apple-system,sans-serif;font-size:13px;line-height:1.7;margin:0;padding:4px}h3{font-size:13px;margin:0.8em 0 0.2em}h3:first-child{margin-top:0}ul{padding-left:1.2em;margin:0.2em 0}</style>
+</head><body>
+<h3>追加</h3>
+<ul><li>「アプリケーション」フォルダ以外から起動したときに、移動して起動し直すかを確認するようにしました（自動アップデートを確実に動かすため）。</li></ul>
+<h3>変更</h3>
+<ul><li>配布形式をZIPからDMGに変更しました。DMGを開いて、TKBcal.appを「アプリケーション」フォルダへドラッグしてください。</li><li>配布元をGitHub（github.com/TKBlabs/TKBcal）に移し、製品ページを apps.tkbtk.com に移しました。自動アップデートはこれまでどおり使えます。</li><li>アップデートの確認画面やメニューを日本語で表示するようにしました。</li></ul>
+</body></html>
+]]></description>
+            <enclosure url="https://github.com/TKBlabs/TKBcal/releases/download/v1.0.17/TKBcal_1.0.17.dmg" length="5811047" type="application/octet-stream" sparkle:edSignature="14i42iGbOpoR540kySg3qqvjgA1iYj3lIF08Br4+S5TIDv9yIFFsqdI5810ELCplMNL4QkoDJ0AqpqsFGsXzDg=="/>
+        </item>
+        <item>
             <title>1.0.16</title>
             <pubDate>Wed, 18 Nov 2026 16:03:46 +0900</pubDate>
             <link>https://apps.tkbtk.com/TKBcal/</link>
