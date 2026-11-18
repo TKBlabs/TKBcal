@@ -3,6 +3,24 @@
     <channel>
         <title>TKBcal</title>
         <item>
+            <title>1.1.0</title>
+            <pubDate>Wed, 18 Nov 2026 16:16:46 +0900</pubDate>
+            <link>https://apps.tkbtk.com/TKBcal/</link>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<!DOCTYPE html>
+<html lang="ja"><head><meta charset="utf-8">
+<style>body{font-family:-apple-system,sans-serif;font-size:13px;line-height:1.7;margin:0;padding:4px}h3{font-size:13px;margin:0.8em 0 0.2em}h3:first-child{margin-top:0}ul{padding-left:1.2em;margin:0.2em 0}</style>
+</head><body>
+<h3>その他</h3>
+<ul><li>GitHubからの配布に移ったことに合わせて、版番号を1.1.0にしました。機能の変更はありません。</li></ul>
+</body></html>
+]]></description>
+            <enclosure url="https://github.com/TKBlabs/TKBcal/releases/download/v1.1.0/TKBcal_1.1.0.dmg" length="5811612" type="application/octet-stream" sparkle:edSignature="uW5/myTpPjrozX6Xt5iCG5DnNS6FH1NUu+CQ3fXyyL3GYjcBepgy2aVOOVBAig4q7gCt2kYramDZTX8m0ZZzBg=="/>
+        </item>
+        <item>
             <title>1.0.17</title>
             <pubDate>Wed, 18 Nov 2026 16:11:48 +0900</pubDate>
             <link>https://apps.tkbtk.com/TKBcal/</link>
